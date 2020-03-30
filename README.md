@@ -1,1 +1,1 @@
-# [sotbi-test] (http://AlexandrKarpovich.github.io/sotbi-test) 
+# [sotbi-test](http://AlexandrKarpovich.github.io/sotbi-test) 
